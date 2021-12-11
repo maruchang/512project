@@ -6,6 +6,9 @@ During the Course Project I took a look at some of the social aspects of the pan
 * Assignment A7: Final Report is a written submission of a project report.
 
 ## County Assigned 
+| County   | State    | FIPS Code |  Area_km^2 | Area_mi^2 | Population_2020_Census | Population_Increase_from_2010 | County Seat   |
+| ---------| -------- | ----------| ---------- | --------- | ---------------------- | ----------------------------- | ------------- |
+| New York | New York |   36061   |   59.13	   |   22.83   |       1,694,251        |           108,378             | Manhattan, NYC|
 
 ## Data
 In this project, four datasets are being used:
