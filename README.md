@@ -8,11 +8,19 @@ During the Course Project I took a look at some of the social aspects of the pan
 ## County Assigned 
 
 ## Data
+In this project, four datasets are being used:
+1. The [RAW_us_confirmed_cases.csv file](https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv) from the Kaggle repository of John Hopkins University COVID-19 data. 
+2. The [CDC dataset] (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i ) of masking mandates by county. 
+3. The New York Times [mask compliance survey data] (https://github.com/nytimes/covid-19-data/tree/master/mask-use).  
+4. The kaggle dataset [“Normal and New Normal: NYC Subway Traffic 2017-21 (NYC subway traffic before, during and after the covid lockdown)”] (https://www.kaggle.com/eddeng/nyc-subway-traffic-data-20172021) 
+
 
 ## Explanation for Each File
 
+
+
 ## Notes for user
-* WIP
+For the CDC dataset, as you can find in `raw/raw/U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv`, I manually filtered and download the data that is only for New York County. 
 
 ## License
 This project is under [The MIT License](https://opensource.org/licenses/MIT)
