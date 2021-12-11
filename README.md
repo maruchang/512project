@@ -10,9 +10,9 @@ During the Course Project I took a look at some of the social aspects of the pan
 ## Data
 In this project, four datasets are being used:
 1. The [RAW_us_confirmed_cases.csv file](https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv) from the Kaggle repository of John Hopkins University COVID-19 data. 
-2. The [CDC dataset] (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i ) of masking mandates by county. 
-3. The New York Times [mask compliance survey data] (https://github.com/nytimes/covid-19-data/tree/master/mask-use).  
-4. The kaggle dataset [“Normal and New Normal: NYC Subway Traffic 2017-21 (NYC subway traffic before, during and after the covid lockdown)”] (https://www.kaggle.com/eddeng/nyc-subway-traffic-data-20172021) 
+2. The [CDC dataset](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i) of masking mandates by county. 
+3. The New York Times [mask compliance survey data](https://github.com/nytimes/covid-19-data/tree/master/mask-use).  
+4. The kaggle dataset [“Normal and New Normal: NYC Subway Traffic 2017-21 (NYC subway traffic before, during and after the covid lockdown)”](https://www.kaggle.com/eddeng/nyc-subway-traffic-data-20172021) 
 
 
 ## Explanation for Each File
