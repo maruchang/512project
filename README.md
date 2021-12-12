@@ -37,7 +37,7 @@ In this project, four datasets are being used:
 ## Notes for user
 * For the most up-to-date data, please go to each of my listed datasource to download the newest version
 * `U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv` only contains the mask mandates data specifically for New York County. If you want the data for another specific county, go to the CDC website and use the filter functionality
-* For the most comprehensive New York City subway data, please go to the [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
+* For the most comprehensive New York City subway data, please use the [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
 
 ## License
 This project is under [The MIT License](https://opensource.org/licenses/MIT)
